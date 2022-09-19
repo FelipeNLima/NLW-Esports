@@ -1,5 +1,6 @@
 <h2 align="center">
   <img alt="NLW" src="https://user-images.githubusercontent.com/26943148/190937057-6e0412cc-ab88-4267-8574-bde93a62ca1e.png"/>
+  <br />
   Projeto NWL Esports
 </h2>
 
