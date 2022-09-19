@@ -4,7 +4,7 @@
   Projeto NWL Esports
 </h1>
 
-<h3> Projeto realizado usando Node.js para backen, React.Js para Web e React Native para mobile </h3>
+<h3> Projeto realizado usando Node.js para backend, React.Js para Web e React Native para mobile </h3>
 
 
 <h4 align="center">Projeto Web</h4>
